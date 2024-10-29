@@ -34,7 +34,3 @@ This project is part of an academic assignment. Contributions and suggestions ar
 ### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Adjust the README as necessary to match the exact content and structure of your GitHub repository. This template includes sections for a brief description, detailed breakdown of components, instructions for running the simulation, and license information.
