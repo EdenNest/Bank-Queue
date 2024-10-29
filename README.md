@@ -1,7 +1,7 @@
 
 ## Bank Simulation Project
 
-This repository contains the Python code for a simulation of banking operations as part of an engineering project in Probability and Statistics. The simulation models the interactions between customers and bank employees to optimize service delivery and customer satisfaction.
+This repository contains the Python code for a simulation of banking operations. The simulation models the interactions between customers and bank employees to optimize service delivery and customer satisfaction.
 **Project Description:**
 - **Purpose:** Simulate the operation of a bank branch to improve the allocation of employees and customer satisfaction. This involves simulating various banking processes such as deposits and withdrawals.
 - **Details:** Employees are assigned to different processes, each having varying levels of expertise. The system analyzes the time each employee spends on each process and the intervals between customer arrivals.
